@@ -13,6 +13,8 @@
 
   <body>
     <div class="container">
+          <img src="http://localhost:4000/image?size=120x40&imagePath=phoenix.png" />
+
       <header class="header">
         <nav role="navigation">
           <ul class="nav nav-pills pull-right">

@@ -18,9 +18,7 @@
       </li>
     </ul>
   </div>
-  OMG, this is actually some text. <%= @message %>
 
- <img src="<%= @image %>"" alt="some_text">
   <div class="col-lg-6">
     <h4>Help</h4>
     <ul>
